@@ -1,0 +1,6 @@
+{
+  "preferred_blueprint_id": "vehicle.dodge.charger_2020",
+  "role_name": "sample_blue_hero",
+  "color": "0,39,105",
+  "notes": "Simple sample vehicle override used to verify that the AED app can load a user-supplied ego vehicle config."
+}

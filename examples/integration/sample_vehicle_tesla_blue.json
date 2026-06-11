@@ -1,0 +1,6 @@
+{
+  "preferred_blueprint_id": "vehicle.tesla.model3",
+  "role_name": "sample_tesla_hero",
+  "color": "0,0,255",
+  "notes": "Sample vehicle override used to verify that AED can spawn a clearly different CARLA vehicle model from a user-supplied config file."
+}
